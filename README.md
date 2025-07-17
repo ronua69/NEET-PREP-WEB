@@ -1,2 +1,2 @@
 # NEET-PREP-WEB
-This is a website to upadate my preparation level
+This is a website to update my preparation level
